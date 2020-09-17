@@ -1,8 +1,8 @@
 <h1>Things I like:
-  eating fruits/snacks
-  playing sports/games
-  hanging out with friends
-  sleeping
+  1.eating fruits/snacks
+  2.playing sports/games
+  3.hanging out with friends
+  4.sleeping
 <h1>Things I dislike:
-  cheese
-  alot of homework
+  1.cheese
+  2.homework
