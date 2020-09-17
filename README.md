@@ -1,4 +1,4 @@
-<h1>Things I like:
+__Things I like__:
   
   1.eating fruits/snacks
   
@@ -8,7 +8,7 @@
   
   4.sleeping
   
-<h1>Things I dislike:
+__Things I dislike__:
   
   1.cheese
   
